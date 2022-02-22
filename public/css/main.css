@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.header-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px 10px 20px;
+    font-size: 30px;
+}
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button {
+    border-style: solid;
+    border: 1px solid grey;
+    padding: 10px 20px 10px 20px;
+}
